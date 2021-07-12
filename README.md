@@ -35,7 +35,19 @@ I've set the limit of recording to save the time and space. Currently this is se
 I hope you liked it. :)
 
 # Screenshot : 1 (DataTables Listing)
-<p align="center"><img src="https://github.com/yadavendra15/vosco-task/Screenshot(120).png" width="400"></a></p>
+<p align="center"><img src="https://github.com/yadavendra15/vosco-task/blob/main/Screenshot%20(120).png width="400"></a></p>
+
+    
+# Screenshot : 2 (New Webcam Recording)
+<p align="center"><img src="https://github.com/yadavendra15/vosco-task/blob/main/Screenshot%20(121).png width="400"></a></p>
+
+
+# Screenshot : 3 (Started Recording)
+<p align="center"><img src="https://github.com/yadavendra15/vosco-task/blob/main/Screenshot%20(122).png width="400"></a></p>
+    
+
+# Screenshot : 4 (Show Save and Download Button)
+<p align="center"><img src="https://github.com/yadavendra15/vosco-task/blob/main/Screenshot%20(123).png width="400"></a></p>
 
 Built With
 Laravel - The PHP Framework For Web Artisans.
