@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+
 
 ## Coding Assessment - VOSCO Technologies
 Create a single web page that does the following.
@@ -35,24 +35,29 @@ I've set the limit of recording to save the time and space. Currently this is se
 I hope you liked it. :)
 
 # Screenshot : 1 (DataTables Listing)
-<p align="center"><img src="https://github.com/yadavendra15/vosco-task/blob/main/Screenshot%20(120).png" width="400"></a></p>
+<p align="center"><img src="https://github.com/yadavendra15/vosco-task/blob/main/Screenshot%20(120).png" width="auto"></a></p>
 
     
 # Screenshot : 2 (New Webcam Recording)
-<p align="center"><img src="https://github.com/yadavendra15/vosco-task/blob/main/Screenshot%20(121).png" width="400"></a></p>
+<p align="center"><img src="https://github.com/yadavendra15/vosco-task/blob/main/Screenshot%20(121).png" width="auto"></a></p>
 
 
 # Screenshot : 3 (Started Recording)
-<p align="center"><img src="https://github.com/yadavendra15/vosco-task/blob/main/Screenshot%20(122).png" width="400"></a></p>
+<p align="center"><img src="https://github.com/yadavendra15/vosco-task/blob/main/Screenshot%20(122).png" width="auto"></a></p>
     
 
 # Screenshot : 4 (Show Save and Download Button)
-<p align="center"><img src="https://github.com/yadavendra15/vosco-task/blob/main/Screenshot%20(123).png" width="400"></a></p>
+<p align="center"><img src="https://github.com/yadavendra15/vosco-task/blob/main/Screenshot%20(123).png" width="auto"></a></p>
 
 Built With
 Laravel - The PHP Framework For Web Artisans.
 
 Mysql - A relational database management system.
+
+
+## About Laravel
+
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 
 <p align="center">
@@ -61,8 +66,6 @@ Mysql - A relational database management system.
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-
-## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
