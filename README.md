@@ -1,5 +1,45 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
+## Coding Assessment - VOSCO Technologies
+Create a single web page that does the following.
+a) List the recorded cam videos with it's title, name and video preview.
+b) Add New cam recording , by simply opening in the same browser window.
+c) In place editing of fields.
+d) Use DataTables for listing records.
+e) All ajax based, no page refresh.
+
+Platform used - Laravel
+
+To follow along, this application has been documented as an article. you can checkout here.
+
+Set up
+
+To set up this project, first clone the repositiory
+
+$ git clone https://github.com/yadavendra15/vosco-task.git
+Change your working directory into the project directory
+
+$ cd vosco-task
+Then install dependencies using Composer
+
+composer install
+
+Run the application with the following command
+
+$ php artisan serve
+
+Remember to visit http://127.0.0.1:8000/medias
+
+I've set the limit of recording to save the time and space. Currently this is set to 5 sec. We can extend it easily.
+
+I hope you liked it. :)
+
+Built With
+Laravel - The PHP Framework For Web Artisans.
+
+Mysql - A relational database management system.
+
+
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
